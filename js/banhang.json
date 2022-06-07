@@ -1,0 +1,79 @@
+{
+    "Users": [
+        {
+            "username": "thuatlh",
+            "password": "123",
+            "fullname": "Lê Hoàng Thuật",
+            "email": "thuat@fpt.edu",
+            "address": "Bình Phước"
+        }
+    ],
+    "sanpham": [
+        {
+            "gia": "300$",
+            "hinh": "sp1.jpg",
+            "tensp": "NIKE AIR MAX 1 PATTA WAVES MONARCH",
+            "giacu": "350",
+            "trangthai": "Sale"
+        },
+        {
+            "gia": "800$",
+            "hinh": "sp2.jpg",
+            "tensp": "AIR JORDAN 1 RETRO HIGH DARK MOCHA",
+            "trangthai": "New"
+        },
+        {
+            "gia": "200$",
+            "hinh": "sp3.jpg",
+            "tensp": "NEW BALANCE 550 WHITE RED BLACK",
+            "trangthai": "Sale",
+            "giacu": "250$"
+        },
+        {
+            "gia": "350$",
+            "hinh": "sp4.jpg",
+            "tensp": "NIKE WMNS DUNK LOW 'COAST'",
+            "trangthai": "New"
+        },
+        {
+            "gia": "150$",
+            "hinh": "sp5.jpg",
+            "tensp": "NEW BALANCE 550 WHITE RED BLACK",
+            "trangthai": "Sale",
+            "giacu": "200$"
+        },
+        {
+            "gia": "150$",
+            "hinh": "sp6.jpg",
+            "tensp": "NIKE ZOOM FREAK 2 BRED",
+            "trangthai": "New"
+        },
+        {
+            "gia": "250$",
+            "hinh": "sp7.jpg",
+            "tensp": "ADIDAS YEEZY SLIDE PURE (RESTOCK PAIR)",
+            "trangthai": "Sale",
+            "giacu": "350"
+        },
+        {
+            "gia": "280$",
+            "hinh": "sp8.jpg",
+            "tensp": "ADIDAS YEEZY FOAM RNNR MIST",
+            "trangthai": "New"
+        },
+        {
+            "gia": "350$",
+            "hinh": "sp8.jpg",
+            "tensp": "AIR JORDAN 1 MID LIGHT SMOKE GREY ANTHRACITE",
+            "trangthai": "Sale",
+            "giacu":"450$"
+        },
+        {
+            "gia": "350$",
+            "hinh": "sp8.jpg",
+            "tensp": "San pham moi",
+            "trangthai": "Sale",
+            "giacu":"450$"
+        }
+    ]
+}
